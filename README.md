@@ -1,0 +1,2 @@
+# LocationTrackingApplication
+Location tracking application.
